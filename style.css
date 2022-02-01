@@ -31,6 +31,7 @@ main {
 
 p{
 	margin: 0;
+	
 }
 
 @media (min-width: 30em)
@@ -46,6 +47,7 @@ img{
 	image-rendering: crisp-edges;
 	image-rendering: pixelated;
 	image-orientation: from-image;
+	padding: 10px;
 }
 
 #container{
